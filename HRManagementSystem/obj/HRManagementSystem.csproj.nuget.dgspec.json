@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HRManagementSystem\\HRManagementSystem.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HRManagementSystem\\HRManagementSystem.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HRManagementSystem\\HRManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem.csproj",
         "projectName": "HRManagementSystem",
-        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HRManagementSystem\\HRManagementSystem.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HRManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\HR Management System\\HR-Management-System\\HRManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
