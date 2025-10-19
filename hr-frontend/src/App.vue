@@ -1,11 +1,12 @@
 <script setup lang="ts"></script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <div class="bg-red-500 text-white p-4 text-center">
+    Ако виждаш този текст с червен фон — Tailwind работи 🎉
+  </div>
+  <main>
+    <router-view />
+  </main> 
 </template>
 
 <style scoped></style>
