@@ -11,5 +11,6 @@ namespace HRManagementSystem.Models
         public required Department Department { get; set; }
 
         public List<LeaveRequest> LeaveRequests { get; set; } = new List<LeaveRequest>();
+        public required string Name { get; set; }
     }
 }

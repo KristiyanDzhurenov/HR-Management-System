@@ -20,5 +20,10 @@ namespace HRManagementSystem.Controllers
             var employees = _context.Employees.ToList();
             return Ok(employees);
         }
+        [HttpGet]
+        public IActionResult Get()
+        {
+            return Ok("API is working!");
+        }
     }
 }

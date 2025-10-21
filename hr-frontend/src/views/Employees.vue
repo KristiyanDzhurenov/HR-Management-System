@@ -1,6 +1,9 @@
 <template>
   <div class="employees">
-    <h1>Employees</h1>
+    <h2 class="text-2xl font-semibold mb-4">Employees</h2>
+    <button class="bg-blue-600 text-white px-4 py-2 rounded mb-4 hover:bg-green-700">Add Employee</button>
+
+    <EmployeeList />
     <ul>
       <li v-for="employee in employees" :key="employee.id">
         {{ employee.name }} - {{ employee.position }}
@@ -26,4 +29,5 @@ defineProps<{
 }>()
 
 import EmployeeCard from '@/components/EmployeeCard.vue'
+import EmployeeList from '@/components/EmployeeList.vue';
 </script>
