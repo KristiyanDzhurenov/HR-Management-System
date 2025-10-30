@@ -1,2 +1,11 @@
 @import "tailwindcss/preflight";
 @import "tailwindcss/utilities";
+
+/* Минимални глобални стилове, които винаги работят */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif; /* или просто sans-serif */
+  background-color: #f9fafb; /* Tailwind gray-50 */
+  color: #1f2937; /* Tailwind gray-800 */
+}
